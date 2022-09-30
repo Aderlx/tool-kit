@@ -1,4 +1,4 @@
-package http
+package toolkit_http
 
 import (
 	"crypto/tls"

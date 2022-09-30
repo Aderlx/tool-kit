@@ -1,4 +1,4 @@
-module github.com/Aderlx/Lancet
+module github.com/Aderlx/tool-kit
 
 go 1.17
 
